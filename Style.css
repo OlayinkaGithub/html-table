@@ -1,0 +1,15 @@
+table{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-collapse: collapse;
+    width: 500px;
+    border: 1px solid;
+}
+th{
+    color: brown;
+}
+
+tr:nth-child(even) {
+    background-color: gray;
+    border: 1px;
+
+}
